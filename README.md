@@ -1,2 +1,4 @@
 # hello-world
-just another repositry
+Hi
+Tony here
+I'm learninh Ruby, PHP and Python

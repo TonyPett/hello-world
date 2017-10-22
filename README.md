@@ -1,4 +1,4 @@
 # hello-world
 Hi
 Tony here
-I'm learninh Ruby, PHP and Python
+I'm learning Ruby, PHP and Python
